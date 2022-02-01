@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/reny-web/static/css/main.31d6cfe0.css",
+    "main.js": "/reny-web/static/js/main.c6b41951.js",
+    "index.html": "/reny-web/index.html",
+    "main.c6b41951.js.map": "/reny-web/static/js/main.c6b41951.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c6b41951.js"
+  ]
+}
